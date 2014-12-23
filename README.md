@@ -1,5 +1,6 @@
 #grunt-sling-cq5
 
+For real time updating of your CQ5 publish instance from your SVN src. Changes you make in your source will updated in CQ.
 ##Install
 
 - Ensure you have node and npm installed:  http://nodejs.org/download/ 
