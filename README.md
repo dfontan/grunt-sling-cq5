@@ -1,4 +1,4 @@
-#grunt-sling
+#grunt-sling-cq5
 
 ##Install
 
